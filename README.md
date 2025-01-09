@@ -1,5 +1,5 @@
 # Visión_artificial_prediccion_de_edades
-Un proyecto que nos ayuda a la predicción de la edad mediante vision artificial
+Un proyecto que nos ayuda a la predicción de la edad, mediante visión artificial
 # Introducción
 En este proyecto vamos a trabajar con dos archivos uno que contienen fotografias de personas con diferentes edades y otro que  contiene las caracteristicas a esas fotografias, mediante la visión artificial entrenaremos un modelo que busque predecir la edad de las personas como una herramienta útil para diversas aplicaciones y servicios.
 # Habilidades técnicas
