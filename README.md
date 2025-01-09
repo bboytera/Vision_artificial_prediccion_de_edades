@@ -2,6 +2,14 @@
 Un proyecto que nos ayuda a la predicción de la edad, mediante visión artificial
 # Introducción
 En este proyecto vamos a trabajar con dos archivos uno que contienen fotografias de personas con diferentes edades y otro que  contiene las caracteristicas a esas fotografias, mediante la visión artificial entrenaremos un modelo que busque predecir la edad de las personas como una herramienta útil para diversas aplicaciones y servicios.
+# Descripción de los datos
+El conjunto de datos se almacena en la carpeta `/datasets/faces/` 
+- La carpeta `final_files` con 7600 fotos 
+
+
+- El archivo `labels.csv` contiene dos columnas: 
+  - `'file_name'` 
+  - `'real_age'` 
 # Habilidades técnicas
 - Python
 - Pandas
